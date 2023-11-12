@@ -1,4 +1,4 @@
-# Example website
+# Building an event management Agency
 
 This is a [static
 site](https://www.netguru.com/blog/what-are-static-site-generators)
