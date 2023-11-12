@@ -1,4 +1,4 @@
-# Building an event management Agency
+# Building an event management website
 
 This is a [static
 site](https://www.netguru.com/blog/what-are-static-site-generators)
